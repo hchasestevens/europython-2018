@@ -13,4 +13,7 @@ Tooling for Python AST manipulation and metaprogramming will be the final topic 
 
 While the talk will touch only briefly on each of the applications discussed, by the end of the session attendees should have a firm grasp of the kinds of problems the AST can be used to solve, what existing AST tooling can accomplish, and what resources are available for the development of their own AST tools.
 
-
+### About the author
+* Name: [H. Chase Stevens](http://www.chasestevens.com)
+* Github: [hchasestevens](https://github.com/hchasestevens)
+* Twitter: [@hchasestevens](https://twitter.com/hchasestevens)
